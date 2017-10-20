@@ -1,14 +1,14 @@
 {
-  "name": "node-dogstatsd",
+  "name": "@groupby/node-dogstatsd",
   "description": "node client for extended StatsD server of Datadog",
-  "version": "0.0.6",
+  "version": "0.0.1",
   "author": "Young Han Lee",
   "repository": {
     "type": "git",
-    "url": "git://github.com/joybro/node-dogstatsd.git"
+    "url": "git://github.com/groupby/node-dogstatsd.git"
   },
   "bugs": {
-    "url": "https://github.com/joybro/node-dogstatsd/issues"
+    "url": "https://github.com/groupby/node-dogstatsd/issues"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha --recursive --require should"
@@ -23,7 +23,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/joybro/node-dogstatsd/raw/master/LICENSE"
+      "url": "http://github.com/groupby/node-dogstatsd/raw/master/LICENSE"
     }
   ],
   "devDependencies": {
